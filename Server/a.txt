@@ -1,0 +1,10 @@
+         XYZ Restaurant        
+-------------------------------
+Table No:1
+Item		Qty		Price
+veg crispy	1	x  150
+-------------------------------
+         Total:Total:300        
+Order Time:Sat, 26 Mar 2016 13:12:58
+Payment Time:Sat, 26 Mar 2016 13:13:03
+         Thank You        
