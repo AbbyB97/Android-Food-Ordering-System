@@ -3,7 +3,7 @@ This app can be implemented in restaurant for easier management and keeping trac
 
 The prerequisites of this project are:
 1) LAN Wifi (can also work without Internet)
-2) Java 1.7.0_02 (The newer version dont work properly so make sure you get this one :) )
+2) Java 1.7.0_02 (The newer version does'nt work properly so make sure you get this one :) )
 
 
 
