@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lakj.comspace.simpletextclient"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/applogo"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+            android:name="com.lakj.comspace.simpletextclient.SlimpleTextClientActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.lakj.comspace.simpletextclient.VirtualWaitress"
+            android:label="@string/title_activity_virtual_waitress" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.lakj.comspace.simpletextclient.Order_Type" >
+        </activity>
+        <activity android:name="com.lakj.comspace.simpletextclient.Starters" >
+        </activity>
+        <activity android:name="com.lakj.comspace.simpletextclient.Veg" >
+        </activity>
+        <activity android:name="com.lakj.comspace.simpletextclient.N_Veg" >
+        </activity>
+        <activity android:name="com.lakj.comspace.simpletextclient.Dessert" >
+        </activity>
+        <activity
+            android:name="com.lakj.comspace.simpletextclient.finalize_order"
+            android:label="@string/title_activity_finalize_order" >
+        </activity>
+        <activity
+            android:name="com.lakj.comspace.simpletextclient.thankyou"
+            android:label="@string/title_activity_thankyou" >
+        </activity>
+    </application>
+
+</manifest>

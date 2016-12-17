@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dessert.xml",
+        "source": "C:\\virtualW\\app\\src\\main\\res\\layout\\activity_dessert.xml"
+    },
+    {
+        "merged": "C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_virtual_waitress.xml",
+        "source": "C:\\virtualW\\app\\src\\main\\res\\layout\\activity_virtual_waitress.xml"
+    },
+    {
+        "merged": "C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_finalize_order.xml",
+        "source": "C:\\virtualW\\app\\src\\main\\res\\layout\\activity_finalize_order.xml"
+    },
+    {
+        "merged": "C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order__type.xml",
+        "source": "C:\\virtualW\\app\\src\\main\\res\\layout\\activity_order__type.xml"
+    },
+    {
+        "merged": "C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_n__veg.xml",
+        "source": "C:\\virtualW\\app\\src\\main\\res\\layout\\activity_n__veg.xml"
+    },
+    {
+        "merged": "C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_veg.xml",
+        "source": "C:\\virtualW\\app\\src\\main\\res\\layout\\activity_veg.xml"
+    },
+    {
+        "merged": "C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slimple_text_client.xml",
+        "source": "C:\\virtualW\\app\\src\\main\\res\\layout\\activity_slimple_text_client.xml"
+    },
+    {
+        "merged": "C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_starters.xml",
+        "source": "C:\\virtualW\\app\\src\\main\\res\\layout\\activity_starters.xml"
+    },
+    {
+        "merged": "C:\\virtualW\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thankyou.xml",
+        "source": "C:\\virtualW\\app\\src\\main\\res\\layout\\activity_thankyou.xml"
+    }
+]

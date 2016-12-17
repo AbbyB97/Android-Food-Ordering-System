@@ -1,0 +1,2 @@
+CHANGED,C:\virtualW\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\virtualW\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lakj\comspace\simpletextclient\finalize_order$SendMessage$override.class
